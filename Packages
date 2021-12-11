@@ -1,0 +1,13 @@
+Package: com.comyo.unicodefont
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: comyo <email@gmail.com>
+Filename: /unicodefont.deb
+Size: 31546
+MD5sum: E4421E02C1103CB3B0F9AC3E9EBCAD96
+SHA1: 6DE944B6581BFA980EF5130E3578186B1462526B
+SHA256: 54ED15AF8B8342326C35A4AC377CB80BD67906753A2AED239F725301A4E6E5E2
+Section: Tweaks
+Description: Give it a try to extend with helpful stuff
+Author: comyo <email@gmail.com>
+Name: myanmarunicode
